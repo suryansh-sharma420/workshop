@@ -1,1 +1,1 @@
-print("dark theme")
+print("light theme")
